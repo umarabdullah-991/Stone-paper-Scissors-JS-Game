@@ -5,6 +5,12 @@
 **Overview:**
 The Rock Paper Scissors Game is a web-based version of the classic hand game, allowing users to play against the computer. The application is designed to be simple yet engaging, providing real-time feedback and score tracking. Built using HTML, CSS, and JavaScript, it offers an intuitive user interface and dynamic game experience.
 
+
+### Deployment:
+
+The project can be deployed on any web hosting service that supports HTML, CSS, and JavaScript files. A live deployment of this project can be accessed via the following link: [Rock-Paper-Scissor](https://rock-paper-scissoor.netlify.app)
+
+
 **Key Features:**
 - **User Interaction:** Players can choose between Rock, Paper, and Scissors by clicking on the corresponding images.
 - **Real-time Score Tracking:** The game keeps track of the user's and the computer's scores, updating them after each round.
